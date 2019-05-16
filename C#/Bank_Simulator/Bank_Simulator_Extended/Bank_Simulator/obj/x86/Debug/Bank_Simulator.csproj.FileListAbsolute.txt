@@ -1,0 +1,67 @@
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\mscorlib.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\normidna.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\normnfc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\normnfd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\mscorlib.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.xml
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\normidna.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\normnfc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\normnfd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 7 and 8\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\mscorlib.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.xml
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\normidna.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\normnfc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\normnfd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 10\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\obj\x86\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\mscorlib.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\nunit.framework.xml
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\normidna.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\normnfc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\normnfd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator\Bank_Simulator\bin\Debug\normnfkd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\Bank_Simulator.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\mscorlib.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\nunit.framework.dll
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\nunit.framework.pdb
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\nunit.framework.xml
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\normidna.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\normnfc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\normnfd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\normnfkc.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\bin\Debug\normnfkd.nlp
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\obj\x86\Debug\Bank_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\obj\x86\Debug\Bank_Simulator.exe
+C:\Users\Teradon\Desktop\OOP\Pass_Tasks\Task 12\Bank_Simulator_Extended\Bank_Simulator\obj\x86\Debug\Bank_Simulator.pdb

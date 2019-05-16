@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3C446DC1-55A1-4C12-BE66-5627EDA2D4D7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bank__Simulator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank_Simulator\Customer.cs">
+    <Files>
+      <File FileName="Bank_Simulator\BankAccount.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\AccountType.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\BankAccountTest.cs" Line="2" Column="21" />
+      <File FileName="Bank_Simulator\CurrentAccount.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\CurrentAccountTest.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\Customer.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\CustomerTest.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\FixedDepositAccount.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\FixedDepositAccountTest.cs" Line="1" Column="1" />
+      <File FileName="Bank_Simulator\Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Bank_Simulator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

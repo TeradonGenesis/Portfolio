@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="myApp">
+
+<head>
+
+    <title>Corporate Template using Bootstrap</title>
+    <meta name="viewport" content="width = device - width, initial sacale = 1.0 " />
+
+    <!--Bootstrap-->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/template01.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <meta charset="utf-8" />
+    <meta name="language" content="english" />
+    <meta name="keywords" content="Corporate" />
+    <meta name="description" content="Bootstrap" />
+
+</head>
+
+<body>
+    <div class="container-fluid" data-ng-controller="myCtrl">
+
+        <!--The shopping cart row-->
+        <div class="row shop">
+
+
+        </div>
+
+        <!--Navigation row-->
+        <div class="row">
+            <!-- Fixed navbar -->
+            <nav class="navbar navbar-default navbar-fixed-top">
+
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Vincero</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Mens</a></li>
+                        <li><a href="#">Womens</a></li>
+                        <li><a href="#">Discover</a></li>
+                        <li><a href="#">Reviews</a></li>
+                    </ul>
+                    <div class="col-md-4 searchInput">
+                        <form class="navbar-form" role="search">
+                            <div class="input-group">
+                                <label for="search1">Search</label><input type="text" id="search1" class="form-control" placeholder="Search" name="q">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!--/.nav-collapse -->
+
+            </nav>
+
+        </div>
+
+        <!--Jumbotron row-->
+        <div class="row">
+            <div class="col-xs-12 col-md-12 jumbotron-fluid ">
+
+                <div class="jumbotron-description">
+                    <strong class="title">Elevate Your Style</strong>
+                    <p>Exceptionally crafted. Fairly Priced</p>
+                    <p class="lead">
+                        <button class="btn btn-lg jumBut">SHOP MENS</button>
+
+                        <button class="btn btn-lg jumBut">SHOP WOMENS</button>
+                    </p>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+        <!--Carousell Main Product Row-->
+        <div class="row Main">
+            <div class="col-xs-12 col-md-4 explanation">
+                <strong class="explore">EXPLORE THE COLLECTIONS</strong>
+                <br />
+                <p>Obsessively designed to make a bold statement, our goal is to create watches that can match your hustle. These are not your cookie-cutter minimalist designs. Every collection has a distinct look and quality you can feel. Welcome to Vincero.</p>
+            </div>
+
+            <div class="col-xs-12 col-md-8">
+                <div id="myCarousel" class="carousel slide">
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="row">
+                                <main-product1 pic="images/main1.png" type="Kairos Series" price="$149" colour=23></main-product1>
+
+                                <main-product2 pic="images/main2.png" type="Bellwater Chrono" price="$199" colour=14></main-product2>
+
+                                <main-product2 pic="images/main3.png" type="Marble Series" price="$179" colour=7></main-product2>
+
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <main-product1 pic="images/main4.png" type="Kairos Series" price="$149" colour=23></main-product1>
+
+                                <main-product2 pic="images/main5.png" type="Bellwater Chrono" price="$199" colour=14></main-product2>
+
+                                <main-product2 pic="images/main6.png" type="Marble Series" price="$179" colour=7></main-product2>
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <main-product1 pic="images/main3.png" type="Kairos Series" price="$149" colour=23></main-product1>
+
+                                <main-product2 pic="images/main6.png" type="Bellwater Chrono" price="$199" colour=14></main-product2>
+
+                                <main-product2 pic="images/main2.png" type="Marble Series" price="$179" colour=7></main-product2>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row Main2">
+
+            <div class="col-xs-12 col-md-12 box">
+                
+                    <strong>REAL CUSTOMER REVIEWS</strong>
+                    <p>Don’t just take our word for it, read what our customers have to say. 15,000 five star reviews and counting.</p><br />
+
+                    <p><img src="images/rating.jpg" alt="rating" class="rating-general" />15273 Reviews</p><br />
+                
+            </div>
+        </div>
+        <!--Reviews row-->
+        <div class="row">
+
+            <div class="col-xs-12 col-md-12 box">
+                <div id="myCarousel2" class="carousel slide">
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="row">
+                                <review-1 pic="images/review1.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-1>
+
+                                <review-2 pic="images/review2.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+
+                                <review-2 pic="images/review3.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <review-1 pic="images/review4.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-1>
+
+                                <review-2 pic="images/review5.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+
+                                <review-2 pic="images/review6.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <review-1 pic="images/review3.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-1>
+
+                                <review-2 pic="images/review6.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+
+                                <review-2 pic="images/review2.jpg" rating="images/rating.jpg" purchase="The Chronos Gold" comment="Absolutely loved this watch" reviewer="Brandon.H"></review-2>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control v2" href="#myCarousel2" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control v2" href="#myCarousel2" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--Logo row-->
+        <div class="row logorow">
+
+            <div class="col-xs-12 col-md-12">
+                <div class="row">
+
+                    <company-Logo data-ng-repeat="l in logo" pic={{l.pic}}></company-Logo>
+
+                </div>
+
+                <div class="row logorow">
+                    <button class="btn btn-lg jumBut2">READ ALL REVIEWS</button>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!--New releases row-->
+        <div class="row Main">
+            <div class="col-xs-12 col-md-8 resize">
+                <div class="row">
+                    <div class="col-xs-12 col-md-6">
+                        <div class="info">
+                            <strong>OUR MISSION</strong>
+                            <p>Ultimately, we want every Vincero to be a symbol of motivation and a daily reminder to live your legacy</p>
+                            <br />
+                            <br />
+                            <h4>LEARN MORE</h4>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <img src="images/learn2.PNG" class="img-responsive" alt="logo" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-md-4 inforow">
+                        <img src="images/learn1.PNG" class="img-responsive reform" alt="logo" />
+                    </div>
+                    <div class="col-xs-12 col-md-8 inforow">
+                        <img src="images/learn3.PNG" class="img-responsive" alt="logo" />
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-md-4 resize2">
+                <div class="row">
+                    <div class="col-xs-12 col-md-12">
+                        <img src="images/learn4.PNG" class="img-responsive" alt="logo" />
+                    </div>
+                    <div class="col-xs-12 col-md-12 inforow">
+                        <div class="info2">
+                            <strong>THE 5AM LIFE</strong>
+                            <p>A collection of content for those who never stop and never settle</p>
+                            <br />
+                            <br />
+                            <h4>LEARN MORE</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <!--Video row-->
+        <div class="row Main">
+            <div class="col-xs-12 col-md-12">
+                <div class="row logorow">
+                    <div class="col-xs-12 col-md-12">
+                        <strong>VINCERO ORIGINALS</strong><br />
+                        <p>You only get one life; so have the courage and determination to go after what you want.</p><br />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-4 video1">
+                        <img src="images/vid1.PNG" class="img-responsive" alt="video" />
+                    </div>
+                    <div class="hidden-xs col-md-4 video2">
+                        <img src="images/vid2.PNG" class="img-responsive" alt="video" />
+                    </div>
+                    <div class="hidden-xs col-md-4 video3">
+                        <img src="images/vid3.PNG" class="img-responsive" alt="video" />
+                    </div>
+                </div>
+
+                <div class="row logorow">
+                    <div class="col-xs-12 col-md-12">
+                        <button class="btn btn-lg jumBut2">VIEW ALL VIDEOS</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row Main">
+            <div class="col-xs-12 col-md-12">
+                <div class="row logorow">
+                    <div class="col-xs-12 col-md-12">
+                        <strong>SHOP OUR INSTAGRAM</strong>
+                        <p>#LIVEYOURLEGACY to be featured</p>
+                        <br />
+                    </div>
+                </div>
+                <div class="row">
+
+                    <extra-instagram data-ng-repeat="i in instagram" pic={{i.pic}}></extra-instagram>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="row Main">
+
+            <extra-stuff data-ng-repeat="e in extra" pic={{e.pic}} description="{{e.description}}"></extra-stuff>
+
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12 col-md-12 footer">
+                <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                       
+                        <strong>Vincero</strong><br/>
+                        <p>For happy hour sales, new product releases & behind the scenes access</p><br/>
+                        <form class="navbar-form" role="search">
+                            <div class="input-group">
+                                <label for="search2">Search</label> <input type="text" id="search2" class="form-control" placeholder="Search" name="q">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit"><span class="glyphicon glyphbutton">JOIN</span></button>
+                                </div>
+                            </div>
+                        </form>
+                        <br/>
+                        <p>support@vincerowatches.com</p>
+                        <p>Acknowledgement. Thank you to Vincero Watches for the design and assets. This design is is referenced from https://vincerowatches.com/ </p><br/>
+                    </div>
+                    <div class="col-xs-12 col-md-2">
+                        <h4>SHOP</h4><br/>
+
+                        <a href=#>Mens</a><br/>
+                        <a href=#>Womens</a><br/>
+                        <a href=#>Gift Guide</a><br/><br/>
+                    </div>
+                    <div class="col-xs-12 col-md-2">
+                        <h4>DISCOVER</h4><br/>
+                        <a href=#>Why It All Started</a><br/>
+                        <a href=#>Our Mission</a><br/>
+                        <a href=#>Our Process</a><br/>
+                        <a href=#>Blog</a><br/>
+                        <a href=#>Reviews</a><br/>
+                        <a href=#>Rewards Program</a><br/><br/>
+                    </div>
+                    <div class="col-xs-12 col-md-2">
+                        <h4>JOIN US</h4><br/>
+
+                        <a href=#>Wholesale</a><br/>
+                        <a href=#>Affiliates</a><br/>
+                        <a href=#>Ambassadors</a><br/>
+                        <a href=#>Careers</a><br/><br/>
+                    </div>
+                    <div class="col-xs-12 col-md-2">
+                        <h4>HELP</h4><br/>
+
+                        <a href=#>FAQ</a><br/>
+                        <a href=#>Contact</a><br/>
+                        <a href=#>Shipping</a><br/>
+                        <a href=#>Returns</a><br/><br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <!--jQuery required for BootStrap's Javascript plugins) -->
+    <script src="js/jquery.min.js"></script>
+
+    <!--All Bootstrap plug-ins file -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Basic AngularJS -->
+    <script src="js/angular.min.js"></script>
+    <!--Your Controller-->
+    <script src="js/template.js"></script>
+</body></html>
